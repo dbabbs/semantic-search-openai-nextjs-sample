@@ -1,0 +1,7 @@
+node_modules
+.next
+tmp
+.env.local
+.env
+.DS_Store
+next-env.d.ts

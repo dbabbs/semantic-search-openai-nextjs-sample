@@ -5,8 +5,6 @@ Users can upload a custom plain text document (`.txt` file) and ask the AI quest
 
 This project is tailored for web developers who are looking to learn more about integrating LLMs and vector databases into their projects.
 
-[**View the live demo**](https://semantic-search-openai-nextjs-sample.vercel.app)
-
 [**This guide is also available as a Medium article**](https://medium.com/@dbabbs/guide-create-a-full-stack-semantic-search-web-app-with-custom-documents-edeae2b35b3c)
 
 ![demo](./img/demo.gif)
